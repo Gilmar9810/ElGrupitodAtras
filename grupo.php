@@ -2,6 +2,13 @@
 <html>
 <head>
 	<title></title>
+	<style>
+		body{
+			margin: 0
+		border-solid: red;
+		}
+
+	</style>
 </head>
 <body>
 <article><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
