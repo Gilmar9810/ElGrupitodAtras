@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Historia Casual</title>
 </head>
 <body>
 <article><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
